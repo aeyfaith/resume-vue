@@ -7,8 +7,8 @@
              :class="{'gallery-grid-col-appear': item.visible && !isAnimating}">
 
             <!-- Item -->
-            <div class="gallery-item" @click="_onItemClicked(item)">
-            <!-- <div class="gallery-item" @click="jumpURL(item.data['url'])">   -->
+            <!-- <div class="gallery-item" @click="_onItemClicked(item)"> -->
+            <div class="gallery-item" @click="jumpURL(item.data['url'])">  
                 <!-- Logo -->
                 <div class="gallery-thumb-wrapper">
                     <ImageView :src="item.data['logoUrl']"
@@ -73,12 +73,12 @@ let timeout = null
  * @param {Object} item
  * @private
  */
-//  const jumpURL = (item) => {
-// //  นำทางไปยัง URL อื่นโดยใช้ Vue Router
-// //  console.log("ffoo", item)
-//    // this.$router.push(item);
-//    window.location.href = item;
-// }
+ const jumpURL = (item) => {
+//  นำทางไปยัง URL อื่นโดยใช้ Vue Router
+//  console.log("ffoo", item)
+   // this.$router.push(item);
+   window.location.href = item;
+}
 const _onItemClicked = (item) => {
 //    console.log("url", item.data)
     emit('open', item.data)

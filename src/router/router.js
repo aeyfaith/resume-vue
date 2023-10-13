@@ -7,7 +7,7 @@ import RouterView from "../vue/core/RouterView.vue"
 import { createRouter, createWebHistory } from "vue-router"
 import GallerySection from "../vue/sections/gallery/GallerySection.vue"
 import Pms from "../vue/sections/pagegallery/Pms.vue"
-
+import Digitalart from "../vue/sections/pagegallery/Digitalart.vue"
 export function createAppRouter() {
     const data = useData()
     const sections = data.getSections()
@@ -23,7 +23,12 @@ export function createAppRouter() {
         path: "/pms",
         name: "Pms",
         component: Pms
-    }
+    }, 
+    {
+       path: "/digitalart",
+       name: "Digitalart",
+       component: Digitalart
+   }
 
 ]
 

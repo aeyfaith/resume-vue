@@ -94,7 +94,7 @@
                     }
                 },
                 "action": "openpage",
-                "url": "http://localhost:5173/vue-resume-template/pms"
+                "url": "/vue-resume-template/pms"
             }
         ],
 
@@ -111,7 +111,7 @@
                     }
                 },
                 "action": "openpage",
-                "url": "/Pms"
+                "url": "/vue-resume-template/pms"
             }
 
             
@@ -123,15 +123,16 @@
                 "title": "Digital art",
                 "logoUrl": "images/portfolio/project-logo-2.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com"}
+                    
                 ],
                 "locales": {
                     "en": {
                         "description": "<b>Snappy</b> is your ultimate photography app, empowering you to capture and edit stunning images effortlessly. With its intuitive interface, Snappy provides a wide range of powerful tools and filters to enhance your photos and bring out your creativity. Whether you're a professional photographer or just a hobbyist, Snappy offers features like manual controls, advanced editing options, and AI-powered enhancements to take your photography to the next level.",
                         "tags": ["app", "photography", "camera"]
                     }
-                }
+                },
+                "action": "openpage",
+                "url": "/vue-resume-template/digitalart"
             },
 
             {

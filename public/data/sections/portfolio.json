@@ -93,8 +93,9 @@
                         "tags": ["app", "email", "communication", "productivity"]
                     }
                 },
-                "action": "openpage",
-                "url": "/vue-resume-template/pms"
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182283507/Personnel-management-system"
+                
             }
         ],
 
@@ -110,8 +111,8 @@
                         "tags": ["app", "finance", "money", "budget"]
                     }
                 },
-                "action": "openpage",
-                "url": "/vue-resume-template/pms"
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182284393/Petcare-Website"
             }
 
             

@@ -131,8 +131,8 @@
                         "tags": ["app", "photography", "camera"]
                     }
                 },
-                "action": "openpage",
-                "url": "/vue-resume-template/digitalart"
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182228583/My-Digital-art"
             },
 
             {
@@ -148,7 +148,9 @@
                         "description": "Indulge in the world of delectable desserts with <b>Sweet Scoops</b>! This app is a dessert lover's paradise, offering a wide range of mouthwatering recipes, step-by-step instructions, and videos for creating your favorite sweets. From creamy ice creams to irresistible pastries, <b>Sweet Scoops</b> has you covered for all your dessert cravings. Unleash your inner pastry chef and treat yourself to a delightful dessert experience.",
                         "tags": ["app", "food", "desserts", "recipes"]
                     }
-                }
+                },
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182255897/My-infographic"
             },
 
             {
@@ -165,7 +167,9 @@
                         "tags": ["app", "sports", "hockey", "goalie"]
                     }
     
-                }
+                },
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182255541/my-logo-design"
             },
 
             {
@@ -181,7 +185,9 @@
                         "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
                         "tags": ["app", "music", "rock", "entertainment"]
                     }
-                }
+                },
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182258711/My-sticker-line"
             },
 
             {
@@ -197,7 +203,9 @@
                         "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
                         "tags": ["app", "music", "rock", "entertainment"]
                     }
-                }
+                },
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182280647/My-Sketch"
             },
             {
                 "id": "Sketch design",
@@ -212,7 +220,9 @@
                         "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
                         "tags": ["app", "music", "rock", "entertainment"]
                     }
-                }
+                },
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182281119/My-Sketch-design"
             },
             {
                 "id": "Shirt",
@@ -227,7 +237,9 @@
                         "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
                         "tags": ["app", "music", "rock", "entertainment"]
                     }
-                }
+                },
+                "action": "openlink",
+                "url": "https://www.behance.net/gallery/182259109/My-shirt-design"
             }
         ]
     }

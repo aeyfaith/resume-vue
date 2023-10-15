@@ -6,6 +6,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/vue-resume',
+  base: '/vue-resume-template',
   plugins: [vue()],
 })

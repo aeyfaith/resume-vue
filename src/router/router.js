@@ -28,7 +28,8 @@ export function createAppRouter() {
        path: "/digitalart",
        name: "Digitalart",
        component: Digitalart
-   }
+   },
+   { path: '*', component: Home }
 
 ]
 

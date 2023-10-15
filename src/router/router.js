@@ -18,17 +18,18 @@ export function createAppRouter() {
         path: '/',
         name: homeSection['id'],
         component: RouterView
-    }, 
-     {
-        path: "/pms",
-        name: "Pms",
-        component: Pms
-    }, 
-    {
-       path: "/digitalart",
-       name: "Digitalart",
-       component: Digitalart
-   }
+     }
+    //        , 
+   //   {
+   //      path: "/pms",
+   //      name: "Pms",
+   //      component: Pms
+   //  }, 
+   //  {
+   //     path: "/digitalart",
+   //     name: "Digitalart",
+   //     component: Digitalart
+   // }
 ]
 
     /** Create Section Routes **/
